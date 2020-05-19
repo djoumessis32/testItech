@@ -1,3 +1,4 @@
 #usr/bin/envr python
 
-ptiny('ok')
+print('ok')
+print('yes')
